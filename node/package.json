@@ -30,7 +30,7 @@
   "dependencies": {
     "node-gyp-build": "^4.8.0",
     "type-fest": "^4.26.0",
-    "uuid": "^8.3.0"
+    "uuid": "^14.0.0"
   },
   "devDependencies": {
     "@indutny/bencher": "^1.2.0",
